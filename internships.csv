@@ -1,0 +1,7 @@
+id,title,company,city,mode,skills,interest,apply_link
+1,Python Developer Intern,Tech Solutions,Chennai,On-site,"Python,SQL,Git",Software Development,https://example.com
+2,Data Science Intern,Data Labs,Chennai,Hybrid,"Python,Pandas,SQL",Data Science,https://example.com
+3,Web Development Intern,WebWorks,Bangalore,Remote,"HTML,CSS,JavaScript",Web Development,https://example.com
+4,AI/ML Intern,AI Labs,Chennai,Hybrid,"Python,Machine Learning,NumPy",AI,https://example.com
+5,Frontend Developer Intern,DesignTech,Hyderabad,On-site,"HTML,CSS,JavaScript",Web Development,https://example.com
+6,Python Data Analyst Intern,Analytics Co,Bangalore,Remote,"Python,SQL,Pandas",Data Science,https://example.com
