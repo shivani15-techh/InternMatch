@@ -1,7 +1,26 @@
-id,title,company,city,mode,skills,interest,apply_link
-1,Python Developer Intern,Tech Solutions,Chennai,On-site,"Python,SQL,Git",Software Development,https://example.com
-2,Data Science Intern,Data Labs,Chennai,Hybrid,"Python,Pandas,SQL",Data Science,https://example.com
-3,Web Development Intern,WebWorks,Bangalore,Remote,"HTML,CSS,JavaScript",Web Development,https://example.com
-4,AI/ML Intern,AI Labs,Chennai,Hybrid,"Python,Machine Learning,NumPy",AI,https://example.com
-5,Frontend Developer Intern,DesignTech,Hyderabad,On-site,"HTML,CSS,JavaScript",Web Development,https://example.com
-6,Python Data Analyst Intern,Analytics Co,Bangalore,Remote,"Python,SQL,Pandas",Data Science,https://example.com
+id,title,company,city,mode,employment_type,skills,interest,stipend_min,stipend_max,duration_months,apply_link
+1,Python Developer Intern,Tech Solutions,Chennai,On-site,Part-time,"Python,SQL,Git",Software Development,5000,10000,3,https://example.com
+2,Data Science Intern,Data Labs,Chennai,Hybrid,Full-time,"Python,Pandas,SQL",Data Science,10000,20000,6,https://example.com
+3,Web Development Intern,WebWorks,Bangalore,Remote,Part-time,"HTML,CSS,JavaScript",Web Development,4000,8000,3,https://example.com
+4,AI/ML Intern,AI Labs,Chennai,Hybrid,Full-time,"Python,Machine Learning,NumPy",AI,12000,20000,6,https://example.com
+5,Frontend Developer Intern,DesignTech,Hyderabad,On-site,Part-time,"HTML,CSS,JavaScript",Web Development,5000,9000,4,https://example.com
+6,Python Data Analyst Intern,Analytics Co,Bangalore,Remote,Full-time,"Python,SQL,Pandas",Data Science,8000,15000,6,https://example.com
+7,Java Developer Intern,Software Hub,Chennai,Hybrid,Part-time,"Java,OOP,SQL",Software Development,5000,10000,3,https://example.com
+8,UI UX Design Intern,Creative Studio,Bangalore,Remote,Part-time,"Figma,UI Design,Prototyping",Design,4000,8000,2,https://example.com
+9,Cloud Computing Intern,CloudTech,Hyderabad,Hybrid,Full-time,"AWS,Python,Linux",Cloud Computing,10000,18000,6,https://example.com
+10,Cybersecurity Intern,SecureNet,Chennai,On-site,Full-time,"Networking,Linux,Python",Cybersecurity,8000,15000,4,https://example.com
+11,Database Management Intern,DataCore,Bangalore,Hybrid,Part-time,"SQL,MySQL,Database",Software Development,5000,9000,3,https://example.com
+12,Mobile App Development Intern,AppWorks,Chennai,Remote,Part-time,"Java,Kotlin,Android",App Development,6000,12000,4,https://example.com
+13,JavaScript Developer Intern,CodeCraft,Delhi,Remote,Full-time,"JavaScript,HTML,CSS,React",Web Development,10000,18000,5,https://example.com
+14,Machine Learning Intern,NeuralWorks,Hyderabad,Hybrid,Part-time,"Python,Machine Learning,TensorFlow",AI,12000,22000,6,https://example.com
+15,Python Automation Intern,AutomateX,Chennai,Remote,Part-time,"Python,Linux,Git",Software Development,6000,12000,3,https://example.com
+16,Graphic Design Intern,Pixel Studio,Mumbai,On-site,Part-time,"Figma,Photoshop,Illustrator",Design,5000,9000,3,https://example.com
+17,Full Stack Developer Intern,WebSphere,Bangalore,Hybrid,Full-time,"HTML,CSS,JavaScript,Python,SQL",Web Development,12000,25000,6,https://example.com
+18,Data Analytics Intern,Insight Labs,Delhi,Remote,Part-time,"Python,Excel,SQL,Pandas",Data Science,7000,14000,4,https://example.com
+19,Linux Systems Intern,TechCore,Chennai,On-site,Full-time,"Linux,Bash,Networking",Cloud Computing,8000,16000,4,https://example.com
+20,Android Development Intern,AppNest,Hyderabad,Remote,Part-time,"Java,Kotlin,Android",App Development,6000,13000,4,https://example.com
+21,Product Design Intern,DesignHive,Mumbai,Hybrid,Full-time,"Figma,UI Design,Prototyping",Design,9000,16000,5,https://example.com
+22,Network Security Intern,CyberShield,Bangalore,On-site,Full-time,"Networking,Linux,Cybersecurity",Cybersecurity,10000,18000,6,https://example.com
+23,SQL Developer Intern,DataBridge,Chennai,Hybrid,Part-time,"SQL,MySQL,Python",Software Development,5000,11000,3,https://example.com
+24,Research Intern - AI,FutureAI,Delhi,Remote,Full-time,"Python,Machine Learning,NumPy",AI,15000,25000,6,https://example.com
+25,Backend Developer Intern,ServerStack,Bangalore,Remote,Part-time,"Python,Flask,SQL,Git",Software Development,8000,16000,4,https://example.com
